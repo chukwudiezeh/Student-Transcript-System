@@ -22,7 +22,7 @@ This system allows students apply for their transcripts and have it sent it to t
     load on your browser 
 
 # For Testing
-id = F/ND/15/3210057
-password = anything
+- id = F/ND/15/3210057
+- password = anything
 
 
